@@ -1,60 +1,67 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Aiden Shaw",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "about1": "From Sales Manager to Full Stack Developer.",
+    "about2": "I am a full stack web developer who loves to learn new languages and frameworks while creating and designing websites.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/aidenshaw/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/aidenshaw07",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Hello! My name is Aiden Shaw. I'm from Turkey and I've been living in New York since 2015. I was a Sales Manager for a wholesale company based in NJ for about 5 years but then I've found out I'm passionate about web development and decided to make a change. At first, I've started self-teaching myself to see if becoming a web developer is really what I wanted to do, and then I really enjoyed the process of learning new things therefore I decided to study software engineering. I'm new to the industry but I lova wat I do and I'm also dedicated to my work. I am a self-motivated individual who is always looking for new challenges and opportunities to grow.",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"General Assembly",
+        "specialization":"Software Engineering Immersive",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2022",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"LaGuardia Community College",
+        "specialization":"ESL Class",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2017",
+      },
+      {
+        "UniversityName":"Okan University",
+        "specialization":"Internaional Logistics",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2015",
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"General Assembly",
+        "specialization":"Software Engineering Fellow",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2022",
+        "Achievements1":"Completed 13-weeks, 480 hours Software Engineering Immersive program focused on HTML, CSS, JavaScript, React, Express, MongoDB, Mongoose, SQL, Python, etc...",
+        "Achievements2":"Built 2 frontend and 2 comprehensive full stack applications, with group of people or individually using Git/GitHub and programming languages",
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Solid Trade",
+        "specialization":"Sales Manager",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2022",
+        "Achievements1":"Increased approximately 300 new active sales accounts and more than $2 million in annual sales which lead to Sales Manager position.",
+        "Achievements2":"Led monthly discussions with team of 8 salespeople where sales targets, initiatives and achievements are discussed.",
+        "Achievements3":"Analyzed sales statistics to develop continuous improvement strategy and take steps to employ new strategies, as well as sales analysis to calculate reasonable and accessible quotas.",
+      },{
+        "CompanyName":"OEM Source",
+        "specialization":"Phone Technician",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2017",
+        "Achievements1":"Troubleshot over 100 phones/tablets and created detailed report for failed parts.",
+        "Achievements2":"Repaired all failed devices by using all parts provided. Afterwards, troubleshot repaired devices to ensure all devices are fully functional.",
+        "Achievements3":"Tested LCDs to be categorized by their conditions (shadows, lines, dots, etc…).",
       }
     ],
     "skillsDescription":"Your skills here",
