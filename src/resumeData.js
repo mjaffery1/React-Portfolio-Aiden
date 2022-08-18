@@ -70,18 +70,20 @@ let resumeData = {
         "technology":"React App",
         "description":"Movie App that shows upcoming movies and information about every movie.",
         "imgurl":"images/portfolio/popcorner-screenshot.png",
-        "url":"https://popcorner.netlify.app/"
+        "url":"https://popcorner.netlify.app/",
+        "github":"https://github.com/aidenshaw07/Project-2-React-Movie-App"
       },
       {
         "name":"Simon Game",
         "technology":"JavaScript App",
         "description":"The classic game of Simon says.",
         "imgurl":"images/portfolio/simongame-screenshot.png",
-        "url":"https://aidenshaw-simongame.netlify.app/"
+        "url":"https://aidenshaw-simongame.netlify.app/",
+        "github":"https://github.com/aidenshaw07/Project-1-Simon-Game"
       },
       {
-        "name":"Popcorner",
-        "description":"Movie App that shows upcoming movies and information about them",
+        "name":"Blog Page",
+        "description":"This is a simple blog page that I created where users can sign up and create a blog post.",
         "imgurl":"images/portfolio/popcorner-screenshot.png"
       },
     ],

@@ -29,7 +29,8 @@ export default class Porfolio extends Component {
                         </div>
                     </div>
                     <div className="a-tag">
-                      Deployed Site: <a href={item.url}>{item.url}</a>
+                      Deployed Site: <a target="_blank" rel="noopener noreferrer" href={item.url}>{item.url}</a>
+                      GitHub Repo: <a target="_blank" rel="noopener noreferrer" href={item.github}>{item.github}</a>
                     </div>
                   </div>
                 );
