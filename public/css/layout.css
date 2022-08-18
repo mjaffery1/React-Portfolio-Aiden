@@ -261,11 +261,11 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+/* .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
-}
+} */
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
@@ -425,12 +425,35 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { 
+   margin-bottom: 36px;
+}
+
+#portfolio-wrapper {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+
+@media screen and (max-width: 768px) {
+   #portfolio-wrapper {
+      display: flex;
+      flex-direction: column;
+   }
+}
+
+.a-tag {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   min-height: 115px;
+   padding: 10px;
+}
+
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
-
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;

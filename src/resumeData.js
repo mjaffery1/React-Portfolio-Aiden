@@ -43,60 +43,47 @@ let resumeData = {
         "specialization":"Software Engineering Fellow",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2022",
-        "Achievements1":"Completed 13-weeks, 480 hours Software Engineering Immersive program focused on HTML, CSS, JavaScript, React, Express, MongoDB, Mongoose, SQL, Python, etc...",
-        "Achievements2":"Built 2 frontend and 2 comprehensive full stack applications, with group of people or individually using Git/GitHub and programming languages",
+        "Achievements1":"=> Completed 13-weeks, 480 hours Software Engineering Immersive program focused on HTML, CSS, JavaScript, React, Express, MongoDB, Mongoose, SQL, Python, etc...",
+        "Achievements2":"=> Built 2 frontend and 2 comprehensive full stack applications, with group of people or individually using Git/GitHub and programming languages.",
       },
       {
         "CompanyName":"Solid Trade",
         "specialization":"Sales Manager",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2022",
-        "Achievements1":"Increased approximately 300 new active sales accounts and more than $2 million in annual sales which lead to Sales Manager position.",
-        "Achievements2":"Led monthly discussions with team of 8 salespeople where sales targets, initiatives and achievements are discussed.",
-        "Achievements3":"Analyzed sales statistics to develop continuous improvement strategy and take steps to employ new strategies, as well as sales analysis to calculate reasonable and accessible quotas.",
+        "Achievements1":"=> Increased approximately 300 new active sales accounts and more than $2 million in annual sales which lead to Sales Manager position.",
+        "Achievements2":"=> Led monthly discussions with team of 8 salespeople where sales targets, initiatives and achievements are discussed.",
+        "Achievements3":"=> Analyzed sales statistics to develop continuous improvement strategy and take steps to employ new strategies, as well as sales analysis to calculate reasonable and accessible quotas.",
       },{
         "CompanyName":"OEM Source",
         "specialization":"Phone Technician",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2017",
-        "Achievements1":"Troubleshot over 100 phones/tablets and created detailed report for failed parts.",
-        "Achievements2":"Repaired all failed devices by using all parts provided. Afterwards, troubleshot repaired devices to ensure all devices are fully functional.",
-        "Achievements3":"Tested LCDs to be categorized by their conditions (shadows, lines, dots, etc…).",
-      }
-    ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
+        "Achievements1":"=> Troubleshot over 100 phones/tablets and created detailed report for failed parts.",
+        "Achievements2":"=> Repaired all failed devices by using all parts provided. Afterwards, troubleshot repaired devices to ensure all devices are fully functional.",
+        "Achievements3":"=> Tested LCDs to be categorized by their conditions (shadows, lines, dots, etc…).",
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Popcorner",
+        "technology":"React App",
+        "description":"Movie App that shows upcoming movies and information about every movie.",
+        "imgurl":"images/portfolio/popcorner-screenshot.png",
+        "url":"https://popcorner.netlify.app/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Simon Game",
+        "technology":"JavaScript App",
+        "description":"The classic game of Simon says.",
+        "imgurl":"images/portfolio/simongame-screenshot.png",
+        "url":"https://aidenshaw-simongame.netlify.app/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Popcorner",
+        "description":"Movie App that shows upcoming movies and information about them",
+        "imgurl":"images/portfolio/popcorner-screenshot.png"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
     ],
     "testimonials":[
       {
