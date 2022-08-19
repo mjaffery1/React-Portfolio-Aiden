@@ -72,20 +72,23 @@ let resumeData = {
         "imgurl":"images/portfolio/popcorner-screenshot.png",
         "url":"https://popcorner.netlify.app/",
         "github":"https://github.com/aidenshaw07/Project-2-React-Movie-App"
+      },      
+      {
+        "name":"Blog Page",
+        "technology":"Django + React App",
+        "description":"Simple blog page where users can sign up and create a blog post.",
+        "imgurl":"images/portfolio/blogpage.png",
+        "url":"https://aidenshaw-blogpagefrontend.herokuapp.com/",
+        "github":"https://github.com/aidenshaw07/Blog-frontend/"
       },
       {
         "name":"Simon Game",
         "technology":"JavaScript App",
-        "description":"The classic game of Simon says.",
+        "description":"The classic memory game where the player has to match the same colored buttons.",
         "imgurl":"images/portfolio/simongame-screenshot.png",
         "url":"https://aidenshaw-simongame.netlify.app/",
         "github":"https://github.com/aidenshaw07/Project-1-Simon-Game"
-      },
-      {
-        "name":"Blog Page",
-        "description":"This is a simple blog page that I created where users can sign up and create a blog post.",
-        "imgurl":"images/portfolio/popcorner-screenshot.png"
-      },
+      }
     ],
     "testimonials":[
       {
